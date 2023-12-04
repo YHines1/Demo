@@ -19,7 +19,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	 "postCreateCommand": "git clone https://ALCGL-INFRA@dev.azure.com/ALCGL-INFRA/terraform-modules/_git/terraform-alcority-single-app-service",
+	// "postCreateCommand": "git clone <url>",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
